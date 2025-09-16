@@ -1,0 +1,4 @@
+split,IC50,Ki
+test,99,7
+train,771,25
+val,94,4

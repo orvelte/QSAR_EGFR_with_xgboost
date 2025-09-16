@@ -1,0 +1,15 @@
+name: qsar_project
+channels: [conda-forge, rdkit]
+dependencies:
+  - python=3.10
+  - rdkit
+  - pip
+  - pip:
+      - chembl-webresource-client
+      - pandas
+      - numpy
+      - scikit-learn
+      - xgboost
+      - shap
+      - matplotlib
+      
